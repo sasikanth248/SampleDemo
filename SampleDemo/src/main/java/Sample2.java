@@ -6,14 +6,14 @@
  * @author sasikanth
  *
  */
-public class Sample1 {
+public class Sample2 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Example1");
-		System.out.println("Example2");
+		System.out.println("another class created for git");
+
 	}
 
 }
